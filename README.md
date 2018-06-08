@@ -44,8 +44,8 @@
 
 ### Topic & Description
 
-* Topic: Network troubleshooting
-* Method: Decision Tree
+* Topic: Location Determination
+* Method: K-NN
 
 ### Github Repository
 
